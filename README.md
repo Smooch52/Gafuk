@@ -1,2 +1,3 @@
-# Nuxt 3 Minimal Starter
+#Gafuk Web Application
 
+That is all what you must to know :)
