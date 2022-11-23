@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g class="Editor / Font_Underline">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 19h12" class="Vector"/>
+    <path fill="#6563FF" d="M17 5a1 1 0 1 0-2 0h2ZM9 5a1 1 0 0 0-2 0h2Zm6 0v6h2V5h-2Zm-6 6V5H7v6h2Zm3 3a3 3 0 0 1-3-3H7a5 5 0 0 0 5 5v-2Zm3-3a3 3 0 0 1-3 3v2a5 5 0 0 0 5-5h-2Z" class="Vector"/>
+  </g>
+</svg>

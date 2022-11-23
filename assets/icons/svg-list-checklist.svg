@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g class="Edit / List_Checklist">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 17h9" class="Vector"/>
+    <path fill="#6563FF" d="M8.768 15.64a1 1 0 1 0-1.536-1.28l1.536 1.28ZM5.5 18l-.555.832a1 1 0 0 0 1.323-.192L5.5 18Zm-.945-1.832a1 1 0 0 0-1.11 1.664l1.11-1.664Zm2.677-1.808-2.5 3 1.536 1.28 2.5-3-1.536-1.28Zm-1.177 2.808-1.5-1-1.11 1.664 1.5 1 1.11-1.664Z" class="Vector"/>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 12h9" class="Vector"/>
+    <path fill="#6563FF" d="M8.768 10.64a1 1 0 0 0-1.536-1.28l1.536 1.28ZM5.5 13l-.555.832a1 1 0 0 0 1.323-.192L5.5 13Zm-.945-1.832a1 1 0 0 0-1.11 1.664l1.11-1.664ZM7.232 9.36l-2.5 3 1.536 1.28 2.5-3-1.536-1.28Zm-1.177 2.808-1.5-1-1.11 1.664 1.5 1 1.11-1.664Z" class="Vector"/>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 7h9" class="Vector"/>
+    <path fill="#6563FF" d="M8.768 5.64a1 1 0 1 0-1.536-1.28l1.536 1.28ZM5.5 8l-.555.832a1 1 0 0 0 1.323-.192L5.5 8Zm-.945-1.832a1 1 0 0 0-1.11 1.664l1.11-1.664ZM7.232 4.36l-2.5 3 1.536 1.28 2.5-3-1.536-1.28ZM6.055 7.168l-1.5-1-1.11 1.664 1.5 1 1.11-1.664Z" class="Vector"/>
+  </g>
+</svg>

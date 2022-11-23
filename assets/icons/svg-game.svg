@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g stroke="currentColor" stroke-width="2" class="Iconly/Sharp/Game">
+    <path stroke-linecap="square" d="M8.642 12.232v3.648" class="Stroke 19"/>
+    <path stroke-linecap="square" d="M10.502 14.056H6.78" class="Stroke 20"/>
+    <path stroke-linecap="square" d="M14.99 12.343h-.104" class="Stroke 21"/>
+    <path stroke-linecap="square" d="M16.756 15.825h-.105" class="Stroke 4"/>
+    <path stroke-linecap="square" d="M7.578 3c0 .721.597 1.306 1.333 1.306H9.94c1.135.004 2.055.905 2.06 2.018v.707" class="Stroke 22"/>
+    <path stroke-linecap="round" d="M15.762 21a6.916 6.916 0 0 0 6.916-6.916v0a6.916 6.916 0 0 0-6.916-6.916H8.237a6.916 6.916 0 0 0-6.916 6.916v0A6.916 6.916 0 0 0 8.237 21h7.525Z" class="Stroke 8" clip-rule="evenodd"/>
+  </g>
+</svg>

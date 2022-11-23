@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="Maths / Minus_M">
+    <path d="M8 12h4m0 0h4m-4 0v4m0-4V8" class="Vector"/>
+    <circle cx="12" cy="12" r="9" class="Vector"/>
+  </g>
+</svg>

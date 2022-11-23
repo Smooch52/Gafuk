@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g stroke="currentColor" stroke-linecap="round" stroke-width="2" class="Iconly/Sharp/Logout">
+    <path d="M21 12H9" class="Stroke 3"/>
+    <path d="m18.229 8.725 2.578 2.566a1 1 0 0 1 0 1.418l-2.578 2.567" class="Stroke 5"/>
+    <path d="M15.004 16.625v3.625a1 1 0 0 1-1 1H5.48a1 1 0 0 1-1-1V3.75a1 1 0 0 1 1-1h8.524a1 1 0 0 1 1 1v3.625" class="Rectangle 1128"/>
+  </g>
+</svg>

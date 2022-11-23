@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g class="Basic / Link_Horizontal">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h8" class="Vector"/>
+    <path fill="#6563FF" d="M15 7a1 1 0 1 0 0 2V7Zm0 8a1 1 0 1 0 0 2v-2Zm0-6h2V7h-2v2Zm2 6h-2v2h2v-2Zm3-3a3 3 0 0 1-3 3v2a5 5 0 0 0 5-5h-2Zm-3-3a3 3 0 0 1 3 3h2a5 5 0 0 0-5-5v2ZM9 9a1 1 0 0 0 0-2v2Zm0 8a1 1 0 1 0 0-2v2ZM9 7H7v2h2V7ZM7 17h2v-2H7v2Zm-5-5a5 5 0 0 0 5 5v-2a3 3 0 0 1-3-3H2Zm5-5a5 5 0 0 0-5 5h2a3 3 0 0 1 3-3V7Z" class="Vector"/>
+  </g>
+</svg>

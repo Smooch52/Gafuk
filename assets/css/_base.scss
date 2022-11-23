@@ -1,0 +1,34 @@
+html{font-size:16px;}
+body{
+    background:var(--color-bg);
+    color:var(--color-base);
+    font:500 1rem/1.5 'Gilroy', sans-serif;
+}
+*{box-sizing: border-box;}
+p, ul{
+    margin-bottom:1rem;
+}
+strong{font-weight: 700;}
+a{color:var(--color-brand); transition:color .25s ease;}
+a:hover{color:var(--color-brand-alt)}
+.app-layout{
+    width:100%;
+    display: flex;
+    min-height:100vh;
+    flex-direction: column;
+}
+.d-flex{display:flex;}
+.d-block{display:block;}
+.d-inline-block{display:inline-block;}
+.text-danger{color:var(--color-danger)}
+
+
+.app-main{flex:1 0 auto;}
+.container{
+    margin:auto; 
+    padding:0 1rem;
+    @media screen and (min-width:80em) {
+        width: 80rem;
+        
+    }
+}

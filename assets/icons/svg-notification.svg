@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g stroke="currentColor" stroke-width="2" class="Iconly/Sharp/Notification">
+    <path d="M5.812 8.938a6.188 6.188 0 1 1 12.375 0v4.4c0 .12.022.237.063.349l1.049 2.822a1 1 0 0 1-.938 1.348H5.638A1 1 0 0 1 4.7 16.51l1.05-2.822a1 1 0 0 0 .062-.348V8.938Z" class="Rectangle 1140"/>
+    <path d="M15.167 17.857v.226a3.167 3.167 0 1 1-6.333 0v-.226" class="Rectangle 1141"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="m15 9-4 4-2-2" class="Vector"/>
+  </g>
+</svg>

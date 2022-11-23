@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g class="User / User_Add">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 21c0-2.21 3.134-4 7-4s7 1.79 7 4" class="Vector"/>
+    <path fill="#6563FF" d="M18 17a1 1 0 1 0 2 0h-2Zm2-6a1 1 0 1 0-2 0h2Zm0 6v-6h-2v6h2Z" class="Vector"/>
+    <path fill="#6563FF" d="M16 13a1 1 0 1 0 0 2v-2Zm6 2a1 1 0 1 0 0-2v2Zm-6 0h6v-2h-6v2Z" class="Vector"/>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 13a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z" class="Vector"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g class="Editor / Font_Bold">
+    <path fill="#6563FF" d="M8 11a1 1 0 1 0 0 2v-2Zm0 7a1 1 0 1 0 0 2v-2Zm0-5h5.5v-2H8v2Zm5.5 5H8v2h5.5v-2Zm2.5-2.5a2.5 2.5 0 0 1-2.5 2.5v2a4.5 4.5 0 0 0 4.5-4.5h-2ZM13.5 13a2.5 2.5 0 0 1 2.5 2.5h2a4.5 4.5 0 0 0-4.5-4.5v2Z" class="Vector"/>
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5v14" class="Vector"/>
+    <path fill="#6563FF" d="M8 4a1 1 0 0 0 0 2V4Zm0 7a1 1 0 1 0 0 2v-2Zm0-5h4.5V4H8v2Zm4.5 5H8v2h4.5v-2ZM15 8.5a2.5 2.5 0 0 1-2.5 2.5v2A4.5 4.5 0 0 0 17 8.5h-2ZM12.5 6A2.5 2.5 0 0 1 15 8.5h2A4.5 4.5 0 0 0 12.5 4v2Z" class="Vector"/>
+  </g>
+</svg>

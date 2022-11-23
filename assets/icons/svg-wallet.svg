@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <g stroke="currentColor" stroke-linecap="square" stroke-width="2" class="Iconly/Sharp/Wallet">
+    <path d="M21.63 16.71h-4.074c-1.496-.001-2.708-1.104-2.71-2.466 0-1.362 1.214-2.465 2.71-2.466h4.074" class="Stroke 1"/>
+    <path d="M2.37 6.726a1 1 0 0 1 1-1h17.26a1 1 0 0 1 1 1V20.25a1 1 0 0 1-1 1H3.37a1 1 0 0 1-1-1V6.726Z" class="Stroke 5" clip-rule="evenodd"/>
+    <path d="M18.998 5.628V3.751a1 1 0 0 0-1-1L3.37 2.75a1 1 0 0 0-1 1v17.5" class="Stroke 18"/>
+    <path d="M6.934 10.294h5.433" class="Stroke 7"/>
+  </g>
+</svg>
